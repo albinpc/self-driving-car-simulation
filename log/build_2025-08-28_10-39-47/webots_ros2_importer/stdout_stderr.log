@@ -1,0 +1,26 @@
+running egg_info
+creating ../../../build/webots_ros2_importer/urdf2webots.egg-info
+writing ../../../build/webots_ros2_importer/urdf2webots.egg-info/PKG-INFO
+writing dependency_links to ../../../build/webots_ros2_importer/urdf2webots.egg-info/dependency_links.txt
+writing entry points to ../../../build/webots_ros2_importer/urdf2webots.egg-info/entry_points.txt
+writing requirements to ../../../build/webots_ros2_importer/urdf2webots.egg-info/requires.txt
+writing top-level names to ../../../build/webots_ros2_importer/urdf2webots.egg-info/top_level.txt
+writing manifest file '../../../build/webots_ros2_importer/urdf2webots.egg-info/SOURCES.txt'
+reading manifest file '../../../build/webots_ros2_importer/urdf2webots.egg-info/SOURCES.txt'
+writing manifest file '../../../build/webots_ros2_importer/urdf2webots.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/albin/webots_ws/build/webots_ros2_importer/build
+creating /home/albin/webots_ws/build/webots_ros2_importer/build/lib
+creating /home/albin/webots_ws/build/webots_ros2_importer/build/lib/urdf2webots
+copying urdf2webots/urdf2webots/__init__.py -> /home/albin/webots_ws/build/webots_ros2_importer/build/lib/urdf2webots
+running install
+running install_lib
+creating /home/albin/webots_ws/install/webots_ros2_importer/lib/python3.10/site-packages/urdf2webots
+copying /home/albin/webots_ws/build/webots_ros2_importer/build/lib/urdf2webots/__init__.py -> /home/albin/webots_ws/install/webots_ros2_importer/lib/python3.10/site-packages/urdf2webots
+byte-compiling /home/albin/webots_ws/install/webots_ros2_importer/lib/python3.10/site-packages/urdf2webots/__init__.py to __init__.cpython-310.pyc
+running install_egg_info
+Copying ../../../build/webots_ros2_importer/urdf2webots.egg-info to /home/albin/webots_ws/install/webots_ros2_importer/lib/python3.10/site-packages/urdf2webots-1.0.0-py3.10.egg-info
+running install_scripts
+Installing urdf2webots script to /home/albin/webots_ws/install/webots_ros2_importer/lib/webots_ros2_importer
+writing list of installed files to '/home/albin/webots_ws/build/webots_ros2_importer/install.log'

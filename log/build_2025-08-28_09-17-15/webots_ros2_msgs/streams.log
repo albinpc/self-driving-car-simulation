@@ -1,0 +1,170 @@
+[0.659s] Invoking command in '/home/albin/webots_ws/build/webots_ros2_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/albin/webots_ws/install/webots_ros2:/home/albin/webots_ws/install/webots_ros2_universal_robot:/home/albin/webots_ws/install/webots_ros2_turtlebot:/home/albin/webots_ws/install/webots_ros2_tiago:/home/albin/webots_ws/install/webots_ros2_tests:/home/albin/webots_ws/install/webots_ros2_tesla:/home/albin/webots_ws/install/webots_ros2_mavic:/home/albin/webots_ws/install/webots_ros2_husarion:/home/albin/webots_ws/install/webots_ros2_epuck:/home/albin/webots_ws/install/webots_ros2_crazyflie:/home/albin/webots_ws/install/webots_ros2_importer:/opt/ros/iron:/home/albin/ros2_iron/install/rqt_bag_plugins:/home/albin/ros2_iron/install/rqt_bag:/home/albin/ros2_iron/install/rosbag2_examples_py:/home/albin/ros2_iron/install/launch_testing_examples:/home/albin/ros2_iron/install/ros2bag:/home/albin/ros2_iron/install/tracetools_test:/home/albin/ros2_iron/install/tracetools_launch:/home/albin/ros2_iron/install/topic_monitor:/home/albin/ros2_iron/install/tf2_tools:/home/albin/ros2_iron/install/examples_tf2_py:/home/albin/ros2_iron/install/tf2_ros_py:/home/albin/ros2_iron/install/examples_rclpy_pointcloud_publisher:/home/albin/ros2_iron/install/sensor_msgs_py:/home/albin/ros2_iron/install/quality_of_service_demo_py:/home/albin/ros2_iron/install/rqt_plot:/home/albin/ros2_iron/install/ros2doctor:/home/albin/ros2_iron/install/lifecycle_py:/home/albin/ros2_iron/install/examples_rclpy_minimal_subscriber:/home/albin/ros2_iron/install/examples_rclpy_minimal_service:/home/albin/ros2_iron/install/examples_rclpy_minimal_publisher:/home/albin/ros2_iron/install/examples_rclpy_minimal_client:/home/albin/ros2_iron/install/examples_rclpy_executors:/home/albin/ros2_iron/install/demo_nodes_py:/home/albin/ros2_iron/install/rqt:/home/albin/ros2_iron/install/ros2component:/home/albin/ros2_iron/install/sros2:/home/albin/ros2_iron/install/rqt_topic:/home/albin/ros2_iron/install/rqt_srv:/home/albin/ros2_iron/install/rqt_shell:/home/albin/ros2_iron/install/rqt_service_caller:/home/albin/ros2_iron/install/rqt_reconfigure:/home/albin/ros2_iron/install/rqt_py_console:/home/albin/ros2_iron/install/rqt_publisher:/home/albin/ros2_iron/install/rqt_action:/home/albin/ros2_iron/install/rqt_msg:/home/albin/ros2_iron/install/rqt_console:/home/albin/ros2_iron/install/rqt_graph:/home/albin/ros2_iron/install/rqt_gui_py:/home/albin/ros2_iron/install/rqt_gui:/home/albin/ros2_iron/install/ros2trace:/home/albin/ros2_iron/install/ros2topic:/home/albin/ros2_iron/install/ros2test:/home/albin/ros2_iron/install/ros2param:/home/albin/ros2_iron/install/ros2lifecycle:/home/albin/ros2_iron/install/ros2service:/home/albin/ros2_iron/install/ros2run:/home/albin/ros2_iron/install/ros2launch:/home/albin/ros2_iron/install/ros2pkg:/home/albin/ros2_iron/install/ros2node:/home/albin/ros2_iron/install/ros2multicast:/home/albin/ros2_iron/install/ros2interface:/home/albin/ros2_iron/install/ros2action:/home/albin/ros2_iron/install/ros2cli:/home/albin/ros2_iron/install/launch_testing_ros:/home/albin/ros2_iron/install/launch_ros:/home/albin/ros2_iron/install/examples_rclpy_minimal_action_server:/home/albin/ros2_iron/install/examples_rclpy_minimal_action_client:/home/albin/ros2_iron/install/examples_rclpy_guard_conditions:/home/albin/ros2_iron/install/action_tutorials_py:/home/albin/ros2_iron/install/ament_uncrustify:/home/albin/ros2_iron/install/tracetools_trace:/home/albin/ros2_iron/install/tracetools_read:/home/albin/ros2_iron/install/test_tracetools_launch:/home/albin/ros2_iron/install/test_ros2trace:/home/albin/ros2_iron/install/test_launch_ros:/home/albin/ros2_iron/install/rpyutils:/home/albin/ros2_iron/install/rosidl_runtime_py:/home/albin/ros2_iron/install/rosidl_pycommon:/home/albin/ros2_iron/install/rosidl_cli:/home/albin/ros2_iron/install/launch_pytest:/home/albin/ros2_iron/install/launch_testing:/home/albin/ros2_iron/install/launch_yaml:/home/albin/ros2_iron/install/launch_xml:/home/albin/ros2_iron/install/launch:/home/albin/ros2_iron/install/osrf_pycommon:/home/albin/ros2_iron/install/domain_coordinator:/home/albin/ros2_iron/install/ament_xmllint:/home/albin/ros2_iron/install/ament_pyflakes:/home/albin/ros2_iron/install/ament_pycodestyle:/home/albin/ros2_iron/install/ament_pep257:/home/albin/ros2_iron/install/ament_pclint:/home/albin/ros2_iron/install/ament_package:/home/albin/ros2_iron/install/ament_mypy:/home/albin/ros2_iron/install/ament_lint_cmake:/home/albin/ros2_iron/install/ament_flake8:/home/albin/ros2_iron/install/ament_copyright:/home/albin/ros2_iron/install/ament_lint:/home/albin/ros2_iron/install/ament_index_python:/home/albin/ros2_iron/install/ament_cpplint:/home/albin/ros2_iron/install/ament_cppcheck:/home/albin/ros2_iron/install/ament_clang_tidy:/home/albin/ros2_iron/install/ament_clang_format /home/albin/.local/bin/cmake --build /home/albin/webots_ws/build/webots_ros2_msgs -- -j12 -l12
+[0.747s] [  1%] [34m[1mGenerating type hashes for ROS interfaces[0m
+[0.755s] [  1%] Built target ament_cmake_python_copy_webots_ros2_msgs
+[1.353s] [  1%] Built target webots_ros2_msgs__rosidl_generator_type_description
+[1.364s] running egg_info
+[1.364s] creating webots_ros2_msgs.egg-info
+[1.365s] writing webots_ros2_msgs.egg-info/PKG-INFO
+[1.365s] writing dependency_links to webots_ros2_msgs.egg-info/dependency_links.txt
+[1.365s] writing top-level names to webots_ros2_msgs.egg-info/top_level.txt
+[1.365s] writing manifest file 'webots_ros2_msgs.egg-info/SOURCES.txt'
+[1.368s] reading manifest file 'webots_ros2_msgs.egg-info/SOURCES.txt'
+[1.369s] writing manifest file 'webots_ros2_msgs.egg-info/SOURCES.txt'
+[1.375s] [  2%] [34m[1mGenerating C code for ROS interfaces[0m
+[1.396s] [  2%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[1.406s] [  2%] Built target ament_cmake_python_build_webots_ros2_msgs_egg
+[2.790s] [  2%] Built target webots_ros2_msgs__cpp
+[3.161s] [  3%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/msg/detail/float_stamped__functions.c.o[0m
+[3.162s] [  3%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/msg/detail/bool_stamped__description.c.o[0m
+[3.162s] [  4%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/msg/detail/bool_stamped__type_support.c.o[0m
+[3.162s] [  4%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/msg/detail/float_stamped__description.c.o[0m
+[3.162s] [  5%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/msg/detail/bool_stamped__functions.c.o[0m
+[3.163s] [  6%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/msg/detail/string_stamped__functions.c.o[0m
+[3.163s] [  6%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/msg/detail/string_stamped__description.c.o[0m
+[3.163s] [  7%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/msg/detail/float_stamped__type_support.c.o[0m
+[3.164s] [  8%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/msg/detail/camera_recognition_object__description.c.o[0m
+[3.168s] [  9%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/msg/detail/string_stamped__type_support.c.o[0m
+[3.172s] [  9%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/msg/detail/camera_recognition_object__functions.c.o[0m
+[3.175s] [ 10%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/msg/detail/camera_recognition_object__type_support.c.o[0m
+[3.257s] [ 11%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/msg/detail/camera_recognition_objects__description.c.o[0m
+[3.268s] [ 11%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/msg/detail/camera_recognition_objects__functions.c.o[0m
+[3.270s] [ 12%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/msg/detail/camera_recognition_objects__type_support.c.o[0m
+[3.272s] [ 13%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/msg/detail/urdf_robot__description.c.o[0m
+[3.281s] [ 14%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/msg/detail/urdf_robot__type_support.c.o[0m
+[3.281s] [ 15%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/msg/detail/pen_ink_properties__description.c.o[0m
+[3.282s] [ 15%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/msg/detail/urdf_robot__functions.c.o[0m
+[3.297s] [ 16%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/msg/detail/pen_ink_properties__type_support.c.o[0m
+[3.297s] [ 16%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/msg/detail/pen_ink_properties__functions.c.o[0m
+[3.299s] [ 17%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/srv/detail/emitter_send_string__description.c.o[0m
+[3.303s] [ 17%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/srv/detail/emitter_send_string__type_support.c.o[0m
+[3.304s] [ 18%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/srv/detail/emitter_send_string__functions.c.o[0m
+[3.365s] [ 19%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/srv/detail/get_bool__description.c.o[0m
+[3.373s] [ 20%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/srv/detail/get_bool__functions.c.o[0m
+[3.374s] [ 20%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/srv/detail/get_bool__type_support.c.o[0m
+[3.379s] [ 21%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/srv/detail/set_string__description.c.o[0m
+[3.392s] [ 22%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/srv/detail/set_string__functions.c.o[0m
+[3.399s] [ 23%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/srv/detail/spawn_node_from_string__description.c.o[0m
+[3.402s] [ 23%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/srv/detail/set_string__type_support.c.o[0m
+[3.404s] [ 24%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/srv/detail/spawn_node_from_string__type_support.c.o[0m
+[3.404s] [ 25%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/srv/detail/spawn_node_from_string__functions.c.o[0m
+[3.422s] [ 25%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/srv/detail/spawn_urdf_robot__description.c.o[0m
+[3.429s] [ 26%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/srv/detail/spawn_urdf_robot__functions.c.o[0m
+[3.476s] [ 27%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_c.dir/rosidl_generator_c/webots_ros2_msgs/srv/detail/spawn_urdf_robot__type_support.c.o[0m
+[3.566s] [ 27%] [32m[1mLinking C shared library libwebots_ros2_msgs__rosidl_generator_c.so[0m
+[3.634s] [ 27%] Built target webots_ros2_msgs__rosidl_generator_c
+[3.654s] [ 30%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[3.654s] [ 30%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[3.654s] [ 30%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[3.655s] [ 30%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[3.656s] [ 31%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[3.657s] [ 31%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[4.552s] [ 31%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/webots_ros2_msgs/msg/bool_stamped__type_support.cpp.o[0m
+[4.554s] [ 32%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/webots_ros2_msgs/msg/string_stamped__type_support.cpp.o[0m
+[4.554s] [ 32%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/webots_ros2_msgs/msg/camera_recognition_object__type_support.cpp.o[0m
+[4.554s] [ 33%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/webots_ros2_msgs/msg/camera_recognition_objects__type_support.cpp.o[0m
+[4.554s] [ 34%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/webots_ros2_msgs/msg/float_stamped__type_support.cpp.o[0m
+[4.564s] [ 35%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/webots_ros2_msgs/msg/pen_ink_properties__type_support.cpp.o[0m
+[4.569s] [ 36%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/webots_ros2_msgs/msg/urdf_robot__type_support.cpp.o[0m
+[4.684s] [ 36%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/webots_ros2_msgs/srv/spawn_node_from_string__type_support.cpp.o[0m
+[4.684s] [ 37%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/webots_ros2_msgs/srv/get_bool__type_support.cpp.o[0m
+[4.685s] [ 38%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/webots_ros2_msgs/srv/set_string__type_support.cpp.o[0m
+[4.685s] [ 38%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/webots_ros2_msgs/srv/emitter_send_string__type_support.cpp.o[0m
+[4.690s] [ 39%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/webots_ros2_msgs/srv/spawn_urdf_robot__type_support.cpp.o[0m
+[4.811s] [ 40%] [32m[1mLinking CXX shared library libwebots_ros2_msgs__rosidl_typesupport_c.so[0m
+[4.855s] [ 41%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/webots_ros2_msgs/msg/bool_stamped__type_support.cpp.o[0m
+[4.856s] [ 42%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/webots_ros2_msgs/msg/camera_recognition_object__type_support.cpp.o[0m
+[4.856s] [ 43%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/webots_ros2_msgs/msg/string_stamped__type_support.cpp.o[0m
+[4.856s] [ 43%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/webots_ros2_msgs/msg/camera_recognition_objects__type_support.cpp.o[0m
+[4.856s] [ 43%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/webots_ros2_msgs/msg/float_stamped__type_support.cpp.o[0m
+[4.858s] [ 44%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/webots_ros2_msgs/msg/urdf_robot__type_support.cpp.o[0m
+[4.861s] [ 45%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/webots_ros2_msgs/msg/pen_ink_properties__type_support.cpp.o[0m
+[4.909s] [ 45%] Built target webots_ros2_msgs__rosidl_typesupport_c
+[4.931s] [ 45%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/webots_ros2_msgs/srv/emitter_send_string__type_support.cpp.o[0m
+[5.278s] [ 46%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/webots_ros2_msgs/msg/detail/bool_stamped__type_support.c.o[0m
+[5.296s] [ 47%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/webots_ros2_msgs/msg/detail/bool_stamped__type_support.cpp.o[0m
+[5.388s] [ 47%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/webots_ros2_msgs/msg/detail/bool_stamped__type_support_c.cpp.o[0m
+[5.411s] [ 48%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/webots_ros2_msgs/msg/detail/float_stamped__type_support.c.o[0m
+[5.502s] [ 48%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/webots_ros2_msgs/msg/detail/string_stamped__type_support.c.o[0m
+[5.559s] [ 49%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/webots_ros2_msgs/msg/detail/float_stamped__type_support_c.cpp.o[0m
+[5.567s] [ 50%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/webots_ros2_msgs/msg/detail/camera_recognition_object__type_support.c.o[0m
+[5.577s] [ 51%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/webots_ros2_msgs/msg/detail/string_stamped__type_support.cpp.o[0m
+[5.577s] [ 52%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/webots_ros2_msgs/msg/detail/float_stamped__type_support.cpp.o[0m
+[5.586s] [ 53%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/webots_ros2_msgs/srv/get_bool__type_support.cpp.o[0m
+[5.613s] [ 53%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/webots_ros2_msgs/msg/detail/camera_recognition_object__type_support.cpp.o[0m
+[5.613s] [ 54%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/webots_ros2_msgs/msg/detail/camera_recognition_objects__type_support.cpp.o[0m
+[5.628s] [ 55%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/webots_ros2_msgs/msg/detail/urdf_robot__type_support.cpp.o[0m
+[5.684s] [ 55%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/webots_ros2_msgs/msg/detail/dds_fastrtps/bool_stamped__type_support.cpp.o[0m
+[5.725s] [ 56%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/webots_ros2_msgs/msg/detail/camera_recognition_objects__type_support.c.o[0m
+[5.783s] [ 57%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/webots_ros2_msgs/msg/detail/dds_fastrtps/float_stamped__type_support.cpp.o[0m
+[5.846s] [ 58%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/webots_ros2_msgs/msg/detail/urdf_robot__type_support.c.o[0m
+[5.955s] [ 58%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/webots_ros2_msgs/msg/detail/pen_ink_properties__type_support.c.o[0m
+[5.984s] [ 59%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/webots_ros2_msgs/srv/detail/emitter_send_string__type_support.c.o[0m
+[6.095s] [ 60%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/webots_ros2_msgs/srv/detail/get_bool__type_support.c.o[0m
+[6.095s] [ 61%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/webots_ros2_msgs/msg/detail/string_stamped__type_support_c.cpp.o[0m
+[6.113s] [ 62%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/webots_ros2_msgs/msg/detail/dds_fastrtps/string_stamped__type_support.cpp.o[0m
+[6.187s] [ 62%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/webots_ros2_msgs/msg/detail/dds_fastrtps/camera_recognition_object__type_support.cpp.o[0m
+[6.215s] [ 62%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/webots_ros2_msgs/srv/detail/set_string__type_support.c.o[0m
+[6.226s] [ 63%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/webots_ros2_msgs/srv/detail/spawn_node_from_string__type_support.c.o[0m
+[6.252s] [ 64%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/webots_ros2_msgs/msg/detail/dds_fastrtps/camera_recognition_objects__type_support.cpp.o[0m
+[6.301s] [ 65%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/webots_ros2_msgs/srv/detail/spawn_urdf_robot__type_support.c.o[0m
+[6.335s] [ 65%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/webots_ros2_msgs/msg/detail/pen_ink_properties__type_support.cpp.o[0m
+[6.340s] [ 66%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/webots_ros2_msgs/msg/detail/dds_fastrtps/urdf_robot__type_support.cpp.o[0m
+[6.411s] [ 67%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/webots_ros2_msgs/srv/set_string__type_support.cpp.o[0m
+[6.432s] [ 67%] [32m[1mLinking C shared library libwebots_ros2_msgs__rosidl_typesupport_introspection_c.so[0m
+[6.444s] [ 67%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/webots_ros2_msgs/msg/detail/camera_recognition_object__type_support_c.cpp.o[0m
+[6.450s] [ 67%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/webots_ros2_msgs/srv/spawn_node_from_string__type_support.cpp.o[0m
+[6.558s] [ 67%] Built target webots_ros2_msgs__rosidl_typesupport_introspection_c
+[6.583s] [ 68%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/webots_ros2_msgs/msg/detail/dds_fastrtps/pen_ink_properties__type_support.cpp.o[0m
+[6.614s] [ 68%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/webots_ros2_msgs/srv/detail/dds_fastrtps/emitter_send_string__type_support.cpp.o[0m
+[6.765s] [ 69%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/webots_ros2_msgs/srv/detail/dds_fastrtps/get_bool__type_support.cpp.o[0m
+[6.782s] [ 70%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/webots_ros2_msgs/srv/detail/emitter_send_string__type_support.cpp.o[0m
+[7.035s] [ 71%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/webots_ros2_msgs/srv/spawn_urdf_robot__type_support.cpp.o[0m
+[7.074s] [ 72%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/webots_ros2_msgs/srv/detail/dds_fastrtps/set_string__type_support.cpp.o[0m
+[7.152s] [ 73%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/webots_ros2_msgs/msg/detail/camera_recognition_objects__type_support_c.cpp.o[0m
+[7.218s] [ 73%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/webots_ros2_msgs/srv/detail/dds_fastrtps/spawn_node_from_string__type_support.cpp.o[0m
+[7.235s] [ 74%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/webots_ros2_msgs/srv/detail/get_bool__type_support.cpp.o[0m
+[7.245s] [ 74%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/webots_ros2_msgs/srv/detail/set_string__type_support.cpp.o[0m
+[7.263s] [ 75%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/webots_ros2_msgs/msg/detail/urdf_robot__type_support_c.cpp.o[0m
+[7.275s] [ 75%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/webots_ros2_msgs/msg/detail/pen_ink_properties__type_support_c.cpp.o[0m
+[7.476s] [ 76%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/webots_ros2_msgs/srv/detail/emitter_send_string__type_support_c.cpp.o[0m
+[7.800s] [ 77%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/webots_ros2_msgs/srv/detail/spawn_node_from_string__type_support.cpp.o[0m
+[7.831s] [ 78%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/webots_ros2_msgs/srv/detail/spawn_urdf_robot__type_support.cpp.o[0m
+[7.872s] [ 79%] [32m[1mLinking CXX shared library libwebots_ros2_msgs__rosidl_typesupport_cpp.so[0m
+[7.873s] [ 80%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/webots_ros2_msgs/srv/detail/dds_fastrtps/spawn_urdf_robot__type_support.cpp.o[0m
+[7.941s] [ 81%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/webots_ros2_msgs/srv/detail/get_bool__type_support_c.cpp.o[0m
+[7.950s] [ 81%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/webots_ros2_msgs/srv/detail/set_string__type_support_c.cpp.o[0m
+[8.032s] [ 82%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/webots_ros2_msgs/srv/detail/spawn_node_from_string__type_support_c.cpp.o[0m
+[8.079s] [ 82%] Built target webots_ros2_msgs__rosidl_typesupport_cpp
+[8.104s] [ 83%] [32mBuilding CXX object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/webots_ros2_msgs/srv/detail/spawn_urdf_robot__type_support_c.cpp.o[0m
+[8.599s] [ 84%] [32m[1mLinking CXX shared library libwebots_ros2_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[8.611s] [ 85%] [32m[1mLinking CXX shared library libwebots_ros2_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[8.676s] [ 86%] [32m[1mLinking CXX shared library libwebots_ros2_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[8.703s] [ 86%] Built target webots_ros2_msgs__rosidl_typesupport_fastrtps_c
+[8.707s] [ 86%] Built target webots_ros2_msgs__rosidl_typesupport_introspection_cpp
+[8.773s] [ 86%] Built target webots_ros2_msgs__rosidl_typesupport_fastrtps_cpp
+[8.798s] [ 86%] Built target webots_ros2_msgs
+[8.823s] [ 87%] [34m[1mGenerating Python code for ROS interfaces[0m
+[10.273s] [ 87%] Built target webots_ros2_msgs__py
+[10.304s] [ 89%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_py.dir/rosidl_generator_py/webots_ros2_msgs/msg/_float_stamped_s.c.o[0m
+[10.304s] [ 89%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_py.dir/rosidl_generator_py/webots_ros2_msgs/msg/_camera_recognition_objects_s.c.o[0m
+[10.304s] [ 89%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_py.dir/rosidl_generator_py/webots_ros2_msgs/msg/_urdf_robot_s.c.o[0m
+[10.305s] [ 89%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_py.dir/rosidl_generator_py/webots_ros2_msgs/msg/_string_stamped_s.c.o[0m
+[10.305s] [ 91%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_py.dir/rosidl_generator_py/webots_ros2_msgs/msg/_camera_recognition_object_s.c.o[0m
+[10.305s] [ 91%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_py.dir/rosidl_generator_py/webots_ros2_msgs/msg/_pen_ink_properties_s.c.o[0m
+[10.305s] [ 92%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_py.dir/rosidl_generator_py/webots_ros2_msgs/srv/_get_bool_s.c.o[0m
+[10.305s] [ 93%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_py.dir/rosidl_generator_py/webots_ros2_msgs/srv/_emitter_send_string_s.c.o[0m
+[10.305s] [ 94%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_py.dir/rosidl_generator_py/webots_ros2_msgs/msg/_bool_stamped_s.c.o[0m
+[10.306s] [ 94%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_py.dir/rosidl_generator_py/webots_ros2_msgs/srv/_set_string_s.c.o[0m
+[10.306s] [ 95%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_py.dir/rosidl_generator_py/webots_ros2_msgs/srv/_spawn_node_from_string_s.c.o[0m
+[10.306s] [ 96%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_generator_py.dir/rosidl_generator_py/webots_ros2_msgs/srv/_spawn_urdf_robot_s.c.o[0m
+[10.539s] [ 96%] [32m[1mLinking C shared library rosidl_generator_py/webots_ros2_msgs/libwebots_ros2_msgs__rosidl_generator_py.so[0m
+[10.590s] [ 96%] Built target webots_ros2_msgs__rosidl_generator_py
+[10.616s] [ 97%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/webots_ros2_msgs/_webots_ros2_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[10.616s] [ 97%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/webots_ros2_msgs/_webots_ros2_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[10.616s] [ 97%] [32mBuilding C object CMakeFiles/webots_ros2_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/webots_ros2_msgs/_webots_ros2_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[10.793s] [ 99%] [32m[1mLinking C shared library rosidl_generator_py/webots_ros2_msgs/webots_ros2_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[10.793s] [ 99%] [32m[1mLinking C shared library rosidl_generator_py/webots_ros2_msgs/webots_ros2_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[10.810s] [100%] [32m[1mLinking C shared library rosidl_generator_py/webots_ros2_msgs/webots_ros2_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[10.842s] [100%] Built target webots_ros2_msgs__rosidl_typesupport_c__pyext
+[10.843s] [100%] Built target webots_ros2_msgs__rosidl_typesupport_introspection_c__pyext
+[10.856s] [100%] Built target webots_ros2_msgs__rosidl_typesupport_fastrtps_c__pyext

@@ -1,0 +1,18 @@
+running egg_info
+writing ../../../build/webots_ros2_importer/urdf2webots.egg-info/PKG-INFO
+writing dependency_links to ../../../build/webots_ros2_importer/urdf2webots.egg-info/dependency_links.txt
+writing entry points to ../../../build/webots_ros2_importer/urdf2webots.egg-info/entry_points.txt
+writing requirements to ../../../build/webots_ros2_importer/urdf2webots.egg-info/requires.txt
+writing top-level names to ../../../build/webots_ros2_importer/urdf2webots.egg-info/top_level.txt
+reading manifest file '../../../build/webots_ros2_importer/urdf2webots.egg-info/SOURCES.txt'
+writing manifest file '../../../build/webots_ros2_importer/urdf2webots.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_egg_info
+removing '/home/albin/webots_ws/install/webots_ros2_importer/lib/python3.10/site-packages/urdf2webots-1.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../../build/webots_ros2_importer/urdf2webots.egg-info to /home/albin/webots_ws/install/webots_ros2_importer/lib/python3.10/site-packages/urdf2webots-1.0.0-py3.10.egg-info
+running install_scripts
+Installing urdf2webots script to /home/albin/webots_ws/install/webots_ros2_importer/lib/webots_ros2_importer
+writing list of installed files to '/home/albin/webots_ws/build/webots_ros2_importer/install.log'
