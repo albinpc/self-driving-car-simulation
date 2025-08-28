@@ -1,3 +1,0 @@
-[console_scripts]
-urdf2webots = urdf2webots.importer:main
-
