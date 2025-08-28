@@ -30,7 +30,7 @@ To install and configure the `webots_ros2_turtlebot` simulation package with ROS
 
 - Webots is a modern open-source 3D robotics simulator supporting ROS 2.
 - Offers easy robot model customization, environment editing, and strong ROS 2 integration.
-- Used in both academic and industrial R&D, making it ideal for training toward **jobs at BMW, Mercedes, Bosch, or drone/robotics companies**.
+- Used in both academic and industrial R&D, making it ideal for training toward **drone/robotics/automobile**.
 
 ---
 
@@ -39,9 +39,8 @@ To install and configure the `webots_ros2_turtlebot` simulation package with ROS
 - Build a **mini autonomous stack** using Webots + ROS 2 + TurtleBot:
   - SLAM, path planning, object tracking, reinforcement learning
   - Full pipeline: sensor fusion → perception → control
-- Gain experience in **ROS 2, Gazebo, Webots, CARLA**, etc.
+- Gain experience in **ROS 2, Webots, RL, OpenCV, ObjectDetection**, etc.
 - Develop skills needed for roles in **autonomous vehicles, mobile robotics, or embedded systems**.
-- Portfolio-ready projects for applications to Bosch, BMW, Mercedes, etc.
 
 ---
 
